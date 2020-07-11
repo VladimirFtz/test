@@ -10,3 +10,6 @@ print('Finished!')
 #print('end_time_1: ', end_time_1)
 #print('exec_time: ', exec_time) 
 
+print('start_time: ', start_time)
+print('end_time_1: ', end_time_1)
+print('exec_time: ', exec_time) 
